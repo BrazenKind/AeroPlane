@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aeroplane-dev-225722-authRole",
+      "UnauthRoleArn": "arn:aws:iam::116622787201:role/amplify-aeroplane-dev-225722-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::116622787201:role/amplify-aeroplane-dev-225722-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-aeroplane-dev-225722-deployment",
+      "UnauthRoleName": "amplify-aeroplane-dev-225722-unauthRole",
+      "StackName": "amplify-aeroplane-dev-225722",
+      "StackId": "arn:aws:cloudformation:us-east-2:116622787201:stack/amplify-aeroplane-dev-225722/8ce03340-f45e-11ed-a968-0a3c8236d63b",
+      "AmplifyAppId": "d15orfzbrpp8mm"
+    },
+    "categories": {
+      "auth": {
+        "aeroplane5990b45c": {}
+      }
+    }
+  }
+}
